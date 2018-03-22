@@ -1,0 +1,10 @@
+/logs/
+/venv/
+app.db
+config.bk.1.py
+settings.json
+__pycache__/
+/app/templates/base.bk.1.html
+/app/templates/base.bk.2.html
+/app/routes.bk.1.py
+/app/routes.bk.2.py
